@@ -101,8 +101,8 @@ export default function TicketsPage() {
           {/* Sponsors & Location */}
           <div>
             <h3 className="font-bold text-md mb-2">Sponsors</h3>
-            <div className="h-8 bg-gray-100 rounded flex items-center px-2 mb-4 text-sm text-gray-500">
-              Sponsor Logos Here
+            <div className="h-12   flex  py-2 mb-4 ">
+          <img src="/Frame 1261155499.png" alt="" />
             </div>
 
             <h3 className="font-bold text-md mb-2">Location</h3>

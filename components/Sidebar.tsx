@@ -35,7 +35,7 @@ export default function Sidebar() {
 
   return (
     // Sidebar Container: Shadow is subtle in the image
-    <aside className=" dark:bg-gray-900 min-h-screen w-62 flex flex-col px-3 py-3  border-gray-100 dark:border-gray-800 ">
+    <aside className=" dark:bg-gray-900 h-[1050px] w-62 flex flex-col px-3 py-3  border-gray-100 dark:border-gray-800 ">
 <div className="w-[230px] h-[1100px] bg-white shadow-lg rounded-[12px] border border-gray-200 p-6 flex flex-col gap-6">
 
       {/* 1. Logo (Using Next.js Image component) */}
